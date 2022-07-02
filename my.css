@@ -1,0 +1,100 @@
+#intro{
+    width: 100%;
+    height: 700px;
+    background-color: white;
+    padding: 30px 40px;
+    background: url("4.jpg") no-repeat center/cover;
+    
+}
+body{
+    text-align: center;
+    
+}
+.stat{
+   color: red;
+   margin: 50px 0;
+   text-decoration: underline;
+}
+p{
+    color: white;
+    font-size: large;
+}
+hr{
+    width: 8%;
+    border-style: dotted none none;
+    border-color: red;
+   border-width: 15px;
+   margin: auto;
+    
+}
+.stats{
+    height: 500px;
+    width: 300px;
+    
+    
+}
+.stats:hover{
+    height: 700px;
+    width: 500px;
+    text-align: center;
+    margin-top: 40px;
+   
+}
+
+.state{
+    color: aquamarine;
+}
+.pa{
+    background-color: aquamarine;
+    margin-top: 50px;
+    background: url("IIIT-Sonepat.webp") no-repeat center/cover;
+    padding: 40px;
+    margin-left: 40px; 
+    margin-right: 40px;
+}
+.ca{
+    background-color: aquamarine;
+    margin-top: 50px;
+    width: 50%;
+    margin-left: 400px;
+    
+}
+.ka{
+    width: 58%;
+    background-color: aquamarine;
+    
+    margin-left: 300px;
+    padding: 10px;
+}
+.college{
+    width: 600px;
+    height: 600px;
+    
+}
+.gallery{
+    padding: 50px 100px;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    height: 150px;
+    padding: 30px ;
+    font-family: 'Merriweather', serif;
+    font-size:  large;
+    /* font-family: 'Montserrat', sans-serif; */
+    
+
+
+}
+.footer-link{
+    margin: 0px 20px ;
+    color: #11999E;
+    text-decoration: none;
+}
+.copy{
+    margin: 40px 0;
+    color: #EAF6F6;
+    font-size: small;
+}
+.footer-link:hover{
+    color: #EAF6F6;
+}
