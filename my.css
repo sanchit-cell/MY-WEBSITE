@@ -1,23 +1,39 @@
 #intro{
     width: 100%;
     height: 700px;
-    background-color: white;
-    padding: 30px 40px;
-    background: url("4.jpg") no-repeat center/cover;
+    background-color: black;
     
+    /* background: url("4.jpg") no-repeat center/cover; */
+    font-size: large;
+    
+}
+.navbar{
+    padding: 10px ;
+}
+.logo{
+    margin-bottom: 20px;
+    height: 160px;
+}
+.abo{
+    padding: 30px;
+    text-align: left;
+}
+.x{
+    padding: 50px;
 }
 body{
     text-align: center;
     
 }
 .stat{
-   color: red;
-   margin: 50px 0;
+   color: skyblue;
+   margin: 40px 10px;
    text-decoration: underline;
 }
 p{
     color: white;
     font-size: large;
+    line-height: 200%;
 }
 hr{
     width: 8%;
@@ -42,7 +58,7 @@ hr{
 }
 
 .state{
-    color: aquamarine;
+    color: skyblue;
 }
 .pa{
     background-color: aquamarine;
@@ -53,10 +69,11 @@ hr{
     margin-right: 40px;
 }
 .ca{
-    background-color: aquamarine;
+    background-color: aquamarine;;
     margin-top: 50px;
     width: 50%;
     margin-left: 400px;
+    padding: 0.5px;
     
 }
 .ka{
@@ -64,7 +81,7 @@ hr{
     background-color: aquamarine;
     
     margin-left: 300px;
-    padding: 10px;
+    padding: 0.5px;
 }
 .college{
     width: 600px;
@@ -98,3 +115,4 @@ hr{
 .footer-link:hover{
     color: #EAF6F6;
 }
+
